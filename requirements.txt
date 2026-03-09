@@ -24,5 +24,8 @@ requests
 # XML parsing (built-in, but listed for clarity)
 # xml.etree.ElementTree is built-in
 
+# Sentiment Analysis
+textblob==0.17.1
+
 # Optional: Connection pooling and performance
 # Removed explicit httpcore, let httpx handle it
